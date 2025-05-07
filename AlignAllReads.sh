@@ -3,7 +3,7 @@
 #dont forget to index files used as ref. 
 
 threads=50
-RefLoc="/ficifolium/V1/ReferenceFiles/ordered_new_ficifolium_with_contigs_corrected.fa" #changed 3/21/23
+RefLoc="/ficifolium/V1/ReferenceFiles/ordered_new_ficifolium_with_contigs_corrected.fa"
 
 #to make the required ref files - the following two lines only need to be run once. 
 #samtools faidx $RefLoc
