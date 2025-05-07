@@ -2,7 +2,7 @@
 #reheader all vcf files according to their directory. This will also call mpileup from bam files and produce a vcf for stacks pop pipe in the stacksv1linkage dir.
 
 threads=78
-ref="/ficifolium/V1/ReferenceFiles/ordered_new_ficifolium_with_contigs_corrected.fa" #changed 3/16/23
+ref="/ficifolium/V1/ReferenceFiles/ordered_new_ficifolium_with_contigs_corrected.fa"
 reffai="/ficifolium/V1/ReferenceFiles/ordered_new_ficifolium_with_contigs_corrected.fa.fai"
 
 
